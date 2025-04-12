@@ -342,6 +342,13 @@ The header image can be customised, by adding a personal image `header.png` in t
 
 ----------
 
+### Show XREF - by elysch - `2.0` - `2.2` - [website](https://github.com/elysch/webtrees-mitalteli-show-xref)
+
+A module to show the XREF's. It adds a sidebar in the individual page with the current individual and all his families XREF id's.
+
+----------
+
+
 ### Simple Auto Login - by fanningert - `2.0` - [website](https://github.com/fanningert/webtrees_simpleautologin)
 
 This module provides a simple way to add a SSO auto login for webtrees in combination with a authentication proxy (like oauth2-proxy).
